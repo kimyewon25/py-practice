@@ -31,9 +31,15 @@
 
 ### Q1. 정수형 숫자 5와 실수형 숫자 3.0을 나누면 결과는 어떤 타입이 되는가?
 
-> 답:
+> 답: 실수형
 
 ---
+> name="김예원"
+> age=20
+> height=163
+> favorite_food="복숭아"
+> hobbies=["영화보기", "낮잠자기", "책읽기"]
+> next_year_age=age+1
 
 ### Q2. 다음 코드 실행 결과로 출력되는 값을 적으시오.
 
@@ -42,3 +48,4 @@ words = ["hello", "world"]
 words.append("python")
 print(words[1])
 ```
+> world가 출력됨
